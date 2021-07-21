@@ -32,7 +32,6 @@ Hi, I'm Abhay Vishwakarma, A Student and Lerner 🚀 from Mumbai,Maharashtra, In
 - 📫 How to reach me: abhayv481@gmail.com
 - 🏢 I'm available to work.
 - 😄 Pronouns: He/Him
-- 📝[Resume]#
 - 🌏Check out My Portfolio [abhayv481.github.io](https://abhayv481.github.io/) in Progress.
 
 ### Languages and Tools: 
