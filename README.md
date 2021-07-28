@@ -23,7 +23,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 Hi, I'm Abhay Vishwakarma, A Student and Learner 🚀 from Mumbai,Maharashtra, India, currently 💻 doing my Final year of Engineering from Mumbai University and I am passionate about technology and want to learn & explore new technologies. Beside's Computer Science, I love Book reading and cooking.
 
 
-## About Me!:
+## About Me:
 
   <img align="right" alt="GIF" src="https://github.com/vabhay28/vabhay28/blob/main/resources/coder.gif" width="400" />
   
