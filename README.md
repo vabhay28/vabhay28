@@ -25,13 +25,14 @@ Hi, I'm Abhay Vishwakarma, A Student and Learner 🚀 from Mumbai,Maharashtra, I
 
 ## About Me:
 
-  <img align="right" alt="GIF" src="https://github.com/vabhay28/vabhay28/blob/main/resources/coder.gif" width="400" />
+  <img align="right" alt="GIF" src="https://github.com/vabhay28/vabhay28/blob/main/resources/developer.gif" width="400" />
   
 - 🌱 I’m currently learning Data-Structures and Algorithms.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: abhayv481@gmail.com
 - 🏢 I'm available to work.
 - 😄 Pronouns: He/Him
+- 📝 [Resume](https://github.com/vabhay28/vabhay28/blob/main/resources/AbhayFinalResume.pdf)
 - 🌏Check out My Portfolio [abhayv481.github.io](https://abhayv481.github.io/) in Progress.
 
 ### Languages and Tools: 
