@@ -25,7 +25,7 @@ Hi, I'm Abhay Vishwakarma, A Student and Learner 🚀 from Mumbai,Maharashtra, I
 
 ## About Me:
 
-  <img align="right" alt="GIF" src="https://github.com/vabhay28/vabhay28/blob/main/resources/developer.gif" width="350" />
+  <img align="right" alt="GIF" src="https://github.com/vabhay28/vabhay28/blob/main/resources/developer.gif" width="400" />
   
 - 🌱 I’m currently learning Data-Structures and Algorithms.
 - 💬 Ask me about anything, I am happy to help.
